@@ -34,7 +34,7 @@ The dataset contains product information from Zepto, including:
 
 ## 🛠️ Tools & Technologies
 
-- PostgreSQL
+- MySQL
 - SQL
 - CSV Dataset
 - Git & GitHub
@@ -84,7 +84,7 @@ Zepto-SQL-Data-Analysis/
 
 ## 🚀 How to Run
 
-1. Create a PostgreSQL database.
+1. Create a MySQL database.
 2. Import the `zepto_v2.csv` dataset.
 3. Execute the `Zepto_SQL_data_analysis.sql` script.
 4. Run the analysis queries to generate business insights.
@@ -105,9 +105,9 @@ Zepto-SQL-Data-Analysis/
 
 **Shubham Shukla**
 
-B.Tech CSE (AI) | Aspiring Data Analyst
+B.Tech CSE  | Aspiring Data Analyst
 
-**Skills:** SQL • PostgreSQL • Power BI • Python • Excel • Data Analysis
+**Skills:** SQL • MySQL • Power BI • Python • Excel • Data Analysis
 
 ---
 
